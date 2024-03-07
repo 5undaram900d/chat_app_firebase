@@ -1,6 +1,6 @@
 # chat_app_firebase
 
-A new Flutter project.
+# for the firebase setup add your google-services.json file in the android/app
 
 ## Getting Started
 
